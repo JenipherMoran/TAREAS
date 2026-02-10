@@ -1,0 +1,207 @@
+Actividad I
+
+1. Código Binario
+
+- “Empezamos el técnico en la Universidad Galileo.”
+
+"        34  → 00100010
+E        69  → 01000101
+m       109  → 01101101
+p       112  → 01110000
+e       101  → 01100101
+z       122  → 01111010
+a        97  → 01100001
+m       109  → 01101101
+o       111  → 01101111
+s       115  → 01110011
+(espacio)32  → 00100000
+e       101  → 01100101
+l       108  → 01101100
+(espacio)32  → 00100000
+t       116  → 01110100
+é       138  → 10001010
+c        99  → 01100011
+n       110  → 01101110
+i       105  → 01101001
+c        99  → 01100011
+o       111  → 01101111
+(espacio)32  → 00100000
+e       101  → 01100101
+n       110  → 01101110
+(espacio)32  → 00100000
+l       108  → 01101100
+a        97  → 01100001
+(espacio)32  → 00100000
+U        85  → 01010101
+n       110  → 01101110
+i       105  → 01101001
+v       118  → 01110110
+e       101  → 01100101
+r       114  → 01110010
+s       115  → 01110011
+i       105  → 01101001
+d       100  → 01100100
+a        97  → 01100001
+d       100  → 01100100
+(espacio)32  → 00100000
+G        71  → 01000111
+a        97  → 01100001
+l       108  → 01101100
+i       105  → 01101001
+l       108  → 01101100
+e       101  → 01100101
+o       111  → 01101111
+.        46  → 00101110
+"        34  → 00100010
+
+
+- Nombre
+
+Jenipher Morán
+
+J 74  → 01001010
+e 101 → 01100101
+n 110 → 01101110
+i 105 → 01101001
+p 112 → 01110000
+h 103 → 01100111
+e 101 → 01100101
+r 114 → 01110010
+(espacio) 32
+M 77  → 01001010
+o 111 → 01101111
+r 114 → 01110010
+á 133 → 10000101
+n 110 → 01101110
+
+
+- Algoritmo
+
+2 - Sacar a pasear a un perro
+
+1.  Elegir el lugar de paseo
+2.  Elegir el tiempo de paseo en minutos
+3.  Buscar celular para medir el tiempo
+4.  Tomar la correa
+5.  Ponerse los zapatos
+6.  Buscar bolsas para desechos
+7.  Llamar al perro
+8.  Colocar la correa al perro
+9.  Verificar que la correa esté bien asegurada
+10. Abrir la puerta
+11. Salir con el perro
+12. Cerrar la puerta
+13. Iniciar el cronómetro con el tiempo seleccionado
+14. Pasear al perro
+15. Escuchar alarma de tiemo de paseo cumplido
+16. Detener alarma
+17. Regresar a la casa
+
+3 - Echar a andar un carro
+
+1.  Buscar las llaves del carro
+2.  Ubicar el carro que se debe echar a andar
+3.  Caminar hacia la ubicación del carro
+4.  Ubicarse en la puerta del lado del conductor
+5.  Insertar la llave en la chapa del la puerta del lado del conductor
+6.  Girar la llave para desbloquear la puerta.
+7.  Abrir la puerta
+8.  Ingresar al carro
+9.  Sentarse en el asiento del conductor
+10. Cerrar la puerta
+11. Revisar que la palanca este en neutro
+12. Insertar la llave en el Switch de encendido
+13. Colocar los pies en el pedal de freno
+14. Girar la llave para encender el carro
+15. Retirar el pie del pedal del freno una vez encendido.
+ 
+3- Preposiciones
+
+1. Aprobar el examen final.
+
+Condiciones: 
+
+- Estudiar para el examen.
+- Asistir a todas las clases.
+
+Si el estudiante estudia y asiste a clases, tendrá mayores probabilidades de aprobar.
+
+No hay negación.
+
+Es una conjunción (Y) porque ambas condiciones deben cumplirse.
+
+Enunciado compuesto:
+
+Aprobaré el examen SI estudio Y asisto a todas las clases.
+
+2. Encender laptop
+
+Condiciones: 
+
+Que esté conectada a la corriente.
+Que la batería no esté descargada.
+
+Negación: Sí. “No esté descargada” es una negación del estado de la batería.
+
+Es una disyunción (O) porque solo una condición es suficiente.
+
+Enunciado compuesto: 
+
+La laptop se enciende SI está conectada a la corriente O NO está descargada la batería.
+
+3. Sacar a pasear al perro.
+
+Condiciones: 
+
+- Tener tiempo disponible.
+- Que no esté lloviendo.
+
+Si tengo tiempo y no llueve, puedo pasear a mi perro.
+
+Negación:Sí. “No esté lloviendo” es una negación del estado del clima.
+
+Es una conjunción (Y) porque ambas condiciones deben cumplirse.
+
+Enunciado compuesto:
+
+Sacaré a pasear a mi perro SI tengo tiempo Y NO está lloviendo.
+
+4. Acceder a GES
+
+Condiciones:
+
+- Tener usuario y contraseña correctos.
+- Tener conexión a internet.
+
+Las dos condiciones son necesarias para poder ingresar.
+
+No hay negación.
+
+Es una conjunción (Y) porque ambas condiciones son obligatorias.
+
+Enunciado completo:
+
+Accederé a la plataforma virtual SI tengo usuario y contraseña correctos Y tengo conexión a internet.
+
+5. Entregar una tarea a tiempo
+
+Condiciones:
+- Terminar la tarea antes de la fecha límite.
+- Tener acceso a la plataforma de entrega.
+
+Si la tarea está terminada y se puede acceder a la plataforma GES, la entrega será exitosa.
+
+No hay negación.
+
+Es una conjunción (Y) porque ambas condiciones deben cumplirse.
+
+Enunciado completo: 
+
+Entregaré la tarea a tiempo SI termino la tarea Y tengo acceso a la plataforma GES de entrega.
+
+
+
+ 
+
+
+
